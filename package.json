@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@tbd54566975/crypto": "^0.1.6",
+    "@tbd54566975/dids": "^0.1.9",
+    "@tbd54566975/dwn-sdk-js": "^0.2.1",
+    "@tbd54566975/web5": "^0.7.11",
+    "@tbd54566975/web5-agent": "^0.1.7",
+    "@tbd54566975/web5-user-agent": "^0.1.10",
+    "abstract-level": "^1.0.3",
+    "flat": "^5.0.2",
+    "lodash": "^4.17.21",
+    "memory-level": "^1.0.0"
+  }
+}
